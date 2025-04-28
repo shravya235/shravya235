@@ -3,9 +3,8 @@
 
 ---
 
-- 🌱 Currently expanding frontend and backend skills.
-- 💬 Feel free to reach out to me for collaboration or any freelance projects!
-- 📫 You can contact me at: **shravyar235@gmail.com**
+- 💻 Currently expanding frontend and backend skills.
+- 📧 You can contact me at: **shravyar235@gmail.com**
 
 ---
 
