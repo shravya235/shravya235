@@ -47,7 +47,7 @@
 <td valign="top">
 
 <p align="center">
-  <img src="https://media.giphy.com/media/5YgvUvKvDiQVUdZxLX/giphy.gif" alt="Coding" width="400"/>
+  <img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" alt="Coding" width="400"/>
 </p>
 
 </td>
