@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Shravya R</h1>
-<h3 align="center">A passionate explorer gradually building Frontend Development skills and interested in</h3>
+<h3 align="center">A passionate tech explorer building Web Development skills while diving deep into Cybersecurity 🔐</h3>
 
 ---
 
