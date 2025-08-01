@@ -36,11 +36,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-
-<!-- Custom icons -->
 <img src="https://www.kali.org/images/kali-logo.svg" alt="Kali Linux" width="40" height="40"/>
-<img src="https://avatars.githubusercontent.com/u/38242135?s=200&v=4" alt="Burp Suite" width="40" height="40"/>
-<img src="https://user-images.githubusercontent.com/75489755/151974929-278e6a7e-d94a-4af4-b21f-4690b2a61c9b.png" alt="Metasploitable" width="40" height="40"/>
 
 </p>
 </td>
