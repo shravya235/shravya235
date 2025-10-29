@@ -46,28 +46,12 @@
   <img src="https://www.kali.org/images/kali-logo.svg" alt="Kali Linux" width="50"/>
 </p>
 
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
 ---
 
 ### ⚙️ My Current Focus
 - 🌍 Developing **full-stack web projects** using React.js & Next.js  
 - 🔐 Integrating **cybersecurity** practices into development workflows  
 - 🧠 Constantly upgrading my problem-solving mindset  
-
----
-
-### 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShravyaR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShravyaR&theme=tokyonight&hide_border=true&background=0D1117" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShravyaR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</p>
 
 ---
 
@@ -78,19 +62,9 @@
 
 ---
 
-### ✨ A Quote I Live By  
+### A Quote I Live By  
 <p align="center">
   <em>“Cybersecurity is not just about protection, it’s about creating a world you can trust.”</em>
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShravyaR&theme=tokyonight&no-frame=true&row=1&margin-w=15&no-bg=true"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</p>
