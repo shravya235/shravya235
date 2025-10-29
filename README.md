@@ -7,8 +7,6 @@
   🌐 Tech Explorer | 💻 Web Developer | 🔐 Cybersecurity Enthusiast
 </h3>
 
----
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00E7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+in+Progress;Cybersecurity+Explorer;Building+Secure+and+Modern+Web+Apps;Always+Learning+Something+New!"/>
 </p>
@@ -29,14 +27,19 @@
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" alt="Instagram"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:shravyar235@gmail.com">
+  <a href="mailto:shravyar235@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/gmail.png" width="40" alt="Email"/>
   </a>
   &nbsp;&nbsp;
-  <a href="#">
-    <img src="https://img.icons8.com/ios-filled/50/linkedin.png" width="38" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/shravya-r-32913028b/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" width="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://shravyar.vercel.app/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/domain.png" width="40" alt="Portfolio Website"/>
   </a>
 </p>
+
 
 ---
 
