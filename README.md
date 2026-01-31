@@ -47,7 +47,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,nodejs,python,java,c,cpp,git,vscode" />
-  <img src="https://img.icons8.com/color/48/react-native.png" width="50" alt="React Native"/>
   <img src="https://www.kali.org/images/kali-logo.svg" alt="Kali Linux" width="50"/>
 </p>
 
