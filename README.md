@@ -24,11 +24,7 @@
 ### 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://instagram.com/_shra_vya_" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" alt="Instagram"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:shravyar235@gmail.com">
+  <a href="mailto:shravya11r@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail.png" width="40" alt="Email"/>
   </a>
   &nbsp;&nbsp;
@@ -46,15 +42,7 @@
 ### 🛠️ Languages & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,html,css,react,nextjs,nodejs,express,mongodb,mysql,git,github,docker,aws,linux,vscode" />
-</p>
-
-<p align="center">
-  <b>Security:</b> OWASP ZAP • Burp Suite • Nmap • Metasploit • Wireshark • FFUF • SQLMap
-</p>
-
-<p align="center">
-  <b>AI/ML:</b> PyTorch • Flower • Opacus
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,html,css,react,nextjs,nodejs,express,mongodb,mysql,git,github,docker,aws,vscode" />
 </p>
 
 ---
@@ -64,7 +52,6 @@
 - 🌍 Developing **secure full-stack web applications**
 - 🔐 Integrating **cybersecurity** into development workflows
 - ☁️ Exploring **AWS, Docker and cloud security**
-- 🧠 Applying **AI/ML to cybersecurity**
 
 ---
 
