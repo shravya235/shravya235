@@ -4,20 +4,20 @@
 </h1>
 
 <h3 align="center">
-  🌐 Tech Explorer | 💻 Web & Mobile App Developer | 🔐 Cybersecurity Enthusiast
+  🔐 Cybersecurity Enthusiast | 💻 Full-Stack Developer | 🤖 AI/ML Explorer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00E7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+in+Progress;Cybersecurity+Explorer;Building+Secure+and+Modern+Web+Apps;Always+Learning+Something+New!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00E7FF&center=true&vCenter=true&width=650&lines=Cybersecurity+%26+Full-Stack+Developer;Building+Secure+Web+Applications;Security+Testing+%26+Automation;Exploring+AI%2FML+for+Cybersecurity"/>
 </p>
 
 ---
 
 ### 💡 About Me  
 
-🚀 **Currently:** Expanding my full-stack development and cybersecurity skills  
-🧩 **Focus Areas:** Secure app design, ethical hacking and UI/UX in modern frameworks  
-📧 **Reach me at:** [shravyar235@gmail.com](mailto:shravyar235@gmail.com)
+🚀 **Currently:** Building my skills in full-stack development, cybersecurity and cloud technologies  
+🧩 **Focus Areas:** Web security, secure application development, penetration testing and AI/ML  
+📧 **Reach me at:** [shravya11r@gmail.com](mailto:shravya11r@gmail.com)
 
 ---
 
@@ -28,7 +28,7 @@
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" alt="Instagram"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:shravyar235@gmail.com" target="_blank">
+  <a href="mailto:shravyar235@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail.png" width="40" alt="Email"/>
   </a>
   &nbsp;&nbsp;
@@ -46,17 +46,25 @@
 ### 🛠️ Languages & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,nodejs,python,java,c,cpp,git,vscode" />
-  <img src="https://www.kali.org/images/kali-logo.svg" alt="Kali Linux" width="50"/>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,html,css,react,nextjs,nodejs,express,mongodb,mysql,git,github,docker,aws,linux,vscode" />
+</p>
+
+<p align="center">
+  <b>Security:</b> OWASP ZAP • Burp Suite • Nmap • Metasploit • Wireshark • FFUF • SQLMap
+</p>
+
+<p align="center">
+  <b>AI/ML:</b> PyTorch • Flower • Opacus
 </p>
 
 ---
 
 ### ⚙️ My Current Focus  
 
-- 🌍 Developing **full-stack web & mobile app projects**  
-- 🔐 Integrating **cybersecurity** practices into development workflows  
-- 🧠 Constantly upgrading my problem-solving mindset  
+- 🌍 Developing **secure full-stack web applications**
+- 🔐 Integrating **cybersecurity** into development workflows
+- ☁️ Exploring **AWS, Docker and cloud security**
+- 🧠 Applying **AI/ML to cybersecurity**
 
 ---
 
