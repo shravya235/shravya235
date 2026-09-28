@@ -17,7 +17,7 @@
 ```
 🔐  Role      →  Full-Stack Developer · Cybersecurity Enthusiast · AI/ML Explorer
 🚀  Currently →  Building skills in full-stack development, cybersecurity & cloud
-🧩  Focus     →  Web Security · Secure App Development · Penetration Testing · AI/ML
+🧩  Focus     →  Secure App Development · Cloud Deployment · AI/ML
 ☁️  Exploring →  AWS · Docker · Cloud Security
 📧  Reach me  →  shravya11r@gmail.com
 🌐  Portfolio →  https://shravyar.vercel.app/
@@ -64,15 +64,6 @@
 
 ---
 
-## ✦ github trophies
-
-<div align="center">
-
-[![Trophies](https://github-trophies.vercel.app/?username=shravya235&theme=nord&no-frame=true&no-bg=true&margin-w=1&cache_seconds=86400)](https://github.com/shravya235)
-
-</div>
-
----
 
 ## ✦ github stats
 
